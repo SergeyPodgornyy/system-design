@@ -1,0 +1,8 @@
+hosts/*/results/*
+!hosts/*/results/.gitkeep
+
+intermediate/*
+!intermediate/.gitkeep
+
+result/*
+!result/.gitkeep
